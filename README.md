@@ -34,13 +34,46 @@ Finally, Liszt was born in **1811**, which, according to the Chinese zodiac, was
 
 ## 🗂 Contents
 
-This repository serves as a **Liszt knowledge hub**, bringing together a wide range of resources:
+This archive is organized into multiple folders for clarity and depth:
 
-- 📚 **Biographies** — full texts, excerpts, and annotated notes  
-- 📝 **Letters & Writings** — personal correspondence, memoirs, diaries  
-- 🎼 **Music & Analysis** — references to compositions, performances, and interpretations  
-- 🐑 **Cultural Notes** — anecdotes, nicknames, “sheep” imagery, and contemporary accounts  
-- 🔗 **Secondary Literature** — academic papers, articles, and commentary  
+- 📖 **Biographies & Life**  
+  - Full-length biographies (complete texts, scanned PDFs)  
+  - Excerpts, summaries, annotated notes  
+  - Chronologies & timelines  
+
+- ✉️ **Letters & Personal Writings**  
+  - Correspondence (by year or recipient)  
+  - Memoirs, diaries, travel notes  
+  - Draft writings, essays  
+
+- 🎼 **Music & Analysis**  
+  - Compositions (scores, references, editions)  
+  - Performance history, concert programs  
+  - Musicological analysis, interpretative notes  
+
+- 📰 **Press & Reception**  
+  - Contemporary reviews and articles  
+  - Newspaper clippings  
+  - Public reception & criticism  
+
+- 🎭 **Cultural & Anecdotal**  
+  - Anecdotes, recollections, oral histories  
+  - Nicknames, reputations, popular images  
+  - Iconography (paintings, drawings, caricatures)  
+
+- 🧾 **Scholarly Literature**  
+  - Academic papers and monographs  
+  - Critical editions and commentaries  
+  - Conference proceedings  
+
+- 🌍 **Contextual Materials**  
+  - Documents on 19th-century culture and society  
+  - Related figures (teachers, students, contemporaries)  
+  - Church, politics, salons, travels  
+
+- 📂 **Miscellaneous / Unsorted**  
+  - Items awaiting categorization  
+  - Fragments, odd references, minor notes 
 
 ## 🎯 Purpose
 
