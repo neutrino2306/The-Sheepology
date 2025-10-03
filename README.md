@@ -1,10 +1,10 @@
-# 🐑 Sheepology · The Study of Franz Liszt
+# 🐑 Sheepology: The Study of Franz Liszt
 
-“Your old sheep, FL.” — Franz Liszt
+> *“Your old sheep, FL.”* — Franz Liszt
 
-# 📖 Introduction
+## What is Sheepology?
 
-Sheepology is a playful name for the study of Franz Liszt (1811–1886).
+**Sheepology** is a playful name for the study of **Franz Liszt (1811–1886)**.
 This repository collects resources, references, and research materials about Liszt — his life, works, writings, letters, and cultural impact.
 
 # Why Sheep?
