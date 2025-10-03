@@ -18,15 +18,26 @@ In his letters, he often referred to himself as a sheep (see the following excer
 > FL has no such ambitions and would be very happy if you would be willing to consider him as the very docile sheep of your valley.
 > M. FL will try to follow the recommendation of the most illustrious Olgh, and will do all he can to become as "gentil" as a little sheep.
 
-He even signed his letters as "**Your old sheep, FL**."
+Throughout his life, Liszt often referred to himself as a sheep in his correspondence:
+> *"FL has no such ambitions and would be very happy if you would be willing to consider him as the very docile sheep of your valley."*  
+> *"M. FL will try to follow the recommendation of the most illustrious Olgh, and will do all he can to become as ‘gentil’ as a little sheep."*
 
-Princess de Sayn nicknamed him **Bon Besson**, literally "**lamb twin**", and Liszt often signed his letters as **B.B**.
+He even signed some letters as:
+> *"Your old sheep, FL."*
+
+His friends joined in the metaphor. Princess de Sayn nicknamed him **Bon Besson** (*"lamb twin"*), and Liszt frequently signed his letters simply **B.B.**
+
+The sheep imagery extended beyond Liszt’s own self-descriptions.
+For example, when he attended his first philosophy lecture at university, he arrived late and was immediately reprimanded by the professor.  
+
+> *One learns with a certain amusement of the rebuke administered to him at the first philosophy class, to which he turned up late. "Gentlemen, you will kindly be here punctually at the start of each lesson," the lecturer said. Professor Choisy, remarked reprovingly, as he bestowed a severe look upon the errant and unknown newcomer. Sheepishly, Liszt bowed his apologies.*  
+
 
 One learns with a certain amusement of the rebuke administered to him at the first philosophy class, to which he turned up late. "Gentlemen, you will kindly be here punctually at the start of each lesson," the lecturer said. Professor Choisy, remarked reprovingly, as he bestowed a severe look upon the errant and unknown newcomer. **Sheepishly**, Liszt bowed his apologies.
 
-Last but not least, he was born in 1811, the Year of the Sheep in the Chinese zodiac.
+Finally, Liszt was born in **1811**, which, according to the Chinese zodiac, was the **Year of the Sheep**.
 
-In conclusion, Liszt was — quite literally and figuratively — a sheep.
+**In conclusion, Liszt was — quite literally and figuratively — a sheep.**
 
 ## 🗂 Contents
 
