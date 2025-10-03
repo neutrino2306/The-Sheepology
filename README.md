@@ -9,7 +9,7 @@ This repository collects resources, references, and research materials about Lis
 
 ## Why Sheep?
 
-Liszt’s father was literally a shepherd.
+Liszt’s father Adam Liszt()was literally a shepherd.
 
 In his diaries, Liszt described himself as having an “extremely sheeplike character.”
 
