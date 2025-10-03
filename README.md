@@ -9,17 +9,22 @@ This repository collects resources, references, and research materials about Lis
 
 ## Why Sheep?
 
-Liszt’s father Adam Liszt()was literally a shepherd.
+From the beginning, Liszt’s father Adam Liszt (1776–1827) was employed as an Ovium rationista (shepherd).
 
-In his diaries, Liszt described himself as having an “extremely sheeplike character.”
+Therefore, Liszt later wrote in his diary:
+> "In my childhood, I saw tens of **thousands of sheep**. This may be due to my extremely **sheeplike character**."
 
-In letters, Liszt often referred to himself as “the very docile sheep of your valley” or even signed off as “Your old sheep, FL.”
+In his letters, he often referred to himself as a sheep (see the following excerpts from different letters):
+> FL has no such ambitions and would be very happy if you would be willing to consider him as the very docile sheep of your valley.
+> M. FL will try to follow the recommendation of the most illustrious Olgh, and will do all he can to become as "gentil" as a little sheep.
 
-Princess de Sayn nicknamed him Bon Besson (B.B.), literally “lamb twin.”
+He even signed his letters as "**Your old sheep, FL**."
 
-Friends often use “sheepishly” to describe his demeanor.
+Princess de Sayn nicknamed him **Bon Besson**, literally "**lamb twin**", and Liszt often signed his letters as **B.B**.
 
-He was born in 1811, the Year of the Sheep in the Chinese zodiac.
+One learns with a certain amusement of the rebuke administered to him at the first philosophy class, to which he turned up late. "Gentlemen, you will kindly be here punctually at the start of each lesson," the lecturer said. Professor Choisy, remarked reprovingly, as he bestowed a severe look upon the errant and unknown newcomer. **Sheepishly**, Liszt bowed his apologies.
+
+Last but not least, he was born in 1811, the Year of the Sheep in the Chinese zodiac.
 
 In conclusion, Liszt was — quite literally and figuratively — a sheep.
 
