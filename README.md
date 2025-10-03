@@ -34,14 +34,25 @@ Finally, Liszt was born in **1811**, which, according to the Chinese zodiac, was
 
 ## 🗂 Contents
 
-This repository aims to be a Liszt knowledge hub, including:
+This repository serves as a **Liszt knowledge hub**, bringing together a wide range of resources:
 
-📚 Biographies — full texts, excerpts, and notes.
+- 📚 **Biographies** — full texts, excerpts, and annotated notes  
+- 📝 **Letters & Writings** — personal correspondence, memoirs, diaries  
+- 🎼 **Music & Analysis** — references to compositions, performances, and interpretations  
+- 🐑 **Cultural Notes** — anecdotes, nicknames, “sheep” imagery, and contemporary accounts  
+- 🔗 **Secondary Literature** — academic papers, articles, and commentary  
 
-📝 Letters & Writings — personal correspondence, memoirs, diaries.
+## 🎯 Purpose
 
-🎼 Music & Analysis — references to Liszt’s compositions, performances, and interpretations.
+- **To archive** — gather scattered Liszt resources in one place  
+- **To study** — support researchers, students, and enthusiasts interested in Liszt’s life and works  
+- **To connect** — highlight how Liszt’s self-image, cultural perception, and artistic output intertwine  
 
-🐑 Cultural Notes — anecdotes, nicknames, “sheep” imagery, and contemporary accounts.
+## 🐏 Closing Note
 
-🔗 Secondary Literature — academic papers, articles, and commentary.
+Liszt carried many identities throughout his life — **composer, pianist, conductor, teacher, writer, thinker, and even Abbé Liszt**.  
+Yet, alongside all these roles, he sometimes described himself simply as a **sheep**.  
+
+**Sheepology** embraces this paradox: to explore Liszt in all his dimensions, both grand and humble.  
+
+Contributions are welcome!
